@@ -1,0 +1,4 @@
+pandas>=2.0
+requests>=2.31
+randomuser>=1.6
+pytest>=8.0
